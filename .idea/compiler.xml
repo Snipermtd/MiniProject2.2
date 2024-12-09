@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="TriviaServer" target="11" />
+      <module name="TriviaServer.main" target="11" />
+      <module name="TriviaServer.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
